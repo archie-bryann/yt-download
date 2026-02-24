@@ -16,7 +16,7 @@ ydl_opts = {
 }
 
 # Example URL — Replace with your desired video link
-video_url = 'https://www.youtube.com/watch?v=2y2Z06hVmWE'
+video_url = 'https://www.youtube.com/watch?v=J3GiM2DxUlc'
 
 # Start downloading
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
